@@ -9,7 +9,7 @@ Objective-Cの"オブジェクト指向"の文脈はやっぱり動的と言う�
 //略
 @end
 
-@implemention ViewController
+@implementation ViewController
 -(id)hogehogeWithNum:num{ //numの型はとりあえずなんでも受け付ける
   
   NSString *obj;
