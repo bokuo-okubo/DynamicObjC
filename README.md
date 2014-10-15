@@ -1,7 +1,7 @@
 DynamicObjC
 
 Objective-Cの"オブジェクト指向"の文脈はやっぱり動的と言うんでしょ的な話
-===========
+  ===========
   @interface ViewController : UIViewController
 
   -(id)hogehogeWithNum:num; //ここで型指定しなくてもnumは投げられて
